@@ -23,3 +23,6 @@ Our list app is designed to make your life easier by providing a fast, secure, a
 - Stay logged in: Once you login to our app, you can stay logged in for as long as you need, so you can access your tasks and lists without having to login again and again.
 
 ![alt text](https://raw.githubusercontent.com/nmochea/plmun-student-portal/main/design.png)
+
+#### Disclaimer
+Please note that this PLMUN student portal app is not an official app developed by PLMUN University. While we strive to provide accurate and up-to-date information, we cannot guarantee the accuracy, completeness, or timeliness of the content provided through the app. The use of this app is at your own risk, and we are not responsible for any damages, losses, or liabilities that may result from its use. We encourage you to use the official website and resources provided by PLMUN University for the most accurate and reliable information.
