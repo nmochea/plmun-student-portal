@@ -2,7 +2,7 @@
 
 ## Environment
 - Package name: `plmun.student.portal`
-- Version name: `1.0`
+- Version name: `1.1`
 
 ## Description
 Welcome to the PLMUN Student Portal App, the ultimate companion for students who want to make the most of their academic journey. Our cutting-edge features will revolutionize the way you navigate your courses and manage your account, giving you the tools you need to succeed.
